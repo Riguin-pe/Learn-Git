@@ -1,17 +1,40 @@
 *{
+<<<<<<< HEAD
     padding: 0;
+=======
+    padding: .5em;
+>>>>>>> caja_imagen
     margin: 0;
 }
 
 body{
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
-    color:dimgray; 
+    color:black;
     text-align: left;
+    background-color: white
 }
 
 #container{
+    font-family: 'Times New Roman', Times, serif;
     border:3px solid gray;
     padding: 1em;
     width: 70%;
     margin: 0 auto;
+    background-color: rgb(223, 223, 223);
+}
+
+#img{
+    width: 50%;
+    margin: auto;
+    padding: 1em;
+}
+
+#relleno{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 0 auto;
+    width: 70%;
+    border: 3px solid rgb(97, 97, 97);
+    background-color: rgb(223, 223, 223);
+    color: black;
+    padding: 2em;
+
 }
