@@ -22,7 +22,7 @@ body{
     width: 50%;
     margin: auto;
     padding: 1em;
-}
+}   
 
 #relleno{
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -34,12 +34,12 @@ body{
     padding: 2em;
 }
 #nav{
-  display: inline-block;
   background-color: gainsboro;
-  width: 100%;
+  display: inline-block;
+  padding: 15px 0 ;
+  text-align:right;
   text-decoration: none;
-  text-align: right;
-  height: 40px;
+  width: 100%;
   justify-content: center;
 }
 
@@ -53,5 +53,6 @@ body{
 
 #nav a:hover{
     color: black;
-
+    background-color: darkgray;
+    margin: auto;
 }
