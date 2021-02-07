@@ -1,4 +1,5 @@
-LEARN GIT 🌈
+<h1>LEARN GIT 🌻</h1>
+
 > Una de las herramientas principales en el desarrollo de software, que nos permite mantener el control de versiones de proyectos y mostrar la eficiencia en su máximo explendor.
 
 Como simbolo de mi aprendizaje dejo este repositorio para demostrar lo que he aprendido con GIT:
